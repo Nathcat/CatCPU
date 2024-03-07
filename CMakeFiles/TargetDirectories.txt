@@ -1,3 +1,3 @@
-C:/Users/super/Documents/GitHub/CatCPU/CMakeFiles/CatCPU.dir
-C:/Users/super/Documents/GitHub/CatCPU/CMakeFiles/ALL_BUILD.dir
-C:/Users/super/Documents/GitHub/CatCPU/CMakeFiles/ZERO_CHECK.dir
+/media/nathcat/Data/Projects/GitHub/CatCPU/CMakeFiles/CatCPU.dir
+/media/nathcat/Data/Projects/GitHub/CatCPU/CMakeFiles/edit_cache.dir
+/media/nathcat/Data/Projects/GitHub/CatCPU/CMakeFiles/rebuild_cache.dir
