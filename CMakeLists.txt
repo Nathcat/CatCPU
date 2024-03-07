@@ -1,7 +1,8 @@
-cmake_minimum_required(VERSION 3.26.0)
+cmake_minimum_required(VERSION 3.22.1)
 
 project(CatCPU)
 
-include_directories(include)
-
-add_executable(CatCPU src/main.c)
+add_executable(CatCPU src/CatCPU.cpp)
+target_include_directories(CatCPU PUBLIC include)
+set_target_properties(CatCPU PROPERTIES
+    RUNTIME_OUTPUT_DIRECTORY build)
